@@ -15,3 +15,5 @@ Even though AI is an impressive technology, it would require another major techn
 AI doesn’t create anything: it only predicts based on questionable training sources. Otherwise, ChatGPT would have already created a new version of itself and surpassed all of our technological expectations without human intervention.  
 
 Why we need human to improve IA if the IA can really dev ?
+
+If you allow yourself to say that my profession, which requires logical and intellectual abilities, can be carried out by an AI, then scientists and researchers can too. After all, a developer might even require more capability than a researcher, because we create from nothing, whereas science builds from something that already exists. We invent; you study. To those who understand.
