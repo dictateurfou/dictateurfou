@@ -10,3 +10,6 @@ Read more about real developers who are passionate about the subject and therefo
 
 On the other hand, I can thank you, because in 10 years my skills will be worth gold, and people will be looking more for individuals like me with real expertise rather than simple executors who are only good at writing React without even knowing how to manipulate the DOM. 
 Even though AI is an impressive technology, it would require another major technological breakthrough to create AIs that truly think, learn, and improve themselves autonomously and on that day, your job will have become obsolete as well.
+
+AI doesn’t create anything: it only predicts based on questionable training sources. Otherwise, ChatGPT would have already created a new version of itself and surpassed all of our technological expectations without human intervention.
+Why we need human to improve IA if the IA can really dev ?
